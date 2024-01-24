@@ -1,0 +1,13 @@
+# IDEA
+masterseminar.iml
+**/.idea
+
+**/out
+**/.env
+
+notebooks/*.jpg
+
+data/multi_instruct/vqa_v2/test2015/
+data/multi_instruct/vqa_v2/*.json
+
+data/unnatural_instructions/*.jsonl

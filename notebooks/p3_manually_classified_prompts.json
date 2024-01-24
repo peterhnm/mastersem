@@ -1,0 +1,120 @@
+{
+    "great_code_None": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Code Review",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Code Correction",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Masked Language Modeling",
+                    "numberOfPrompts": 2
+                },
+                {
+                    "nlptask": "Multiple Choice Question Answering",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "subjqa_restaurants": {
+        "task_sum": 9,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 2
+                },
+                {
+                    "nlptask": "Subjectivity Analysis",
+                    "numberOfPrompts": 2
+                },
+                {
+                    "nlptask": "Extractive Question Answering",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "subjqa_electronics": {
+        "task_sum": 9,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 2
+                },
+                {
+                    "nlptask": "Subjectivity Analysis",
+                    "numberOfPrompts": 2
+                },
+                {
+                    "nlptask": "Extractive Question Answering",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "subjqa_grocery": {
+        "task_sum": 9,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Extractive Question Answering",
+                    "numberOfPrompts": 5
+                },
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 2
+                },
+                {
+                    "nlptask": "Subjectivity Analysis",
+                    "numberOfPrompts": 2
+                }
+            ]
+        }
+    },
+    "subjqa_movies": {
+        "task_sum": 9,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Extractive Question Answering",
+                    "numberOfPrompts": 5
+                },
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 2
+                },
+                {
+                    "nlptask": "Subjectivity Analysis",
+                    "numberOfPrompts": 2
+                }
+            ]
+        }
+    },
+    "subjqa_tripadvisor": {
+        "task_sum": 9,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Extractive Question Answering",
+                    "numberOfPrompts": 5
+                },
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 2
+                },
+                {
+                    "nlptask": "Subjectivity Analysis",
+                    "numberOfPrompts": 2
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,3489 @@
+{
+    "super_glue_record": {
+        "task_sum": 20,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 12
+                },
+                {
+                    "nlptask": "Entity Recognition",
+                    "numberOfPrompts": 8
+                }
+            ]
+        }
+    },
+    "super_glue_multirc": {
+        "task_sum": 10,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 10
+                }
+            ]
+        }
+    },
+    "super_glue_copa": {
+        "task_sum": 12,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 12
+                }
+            ]
+        }
+    },
+    "super_glue_axg": {
+        "task_sum": 10,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Natural Language Inference",
+                    "numberOfPrompts": 10
+                }
+            ]
+        }
+    },
+    "super_glue_boolq": {
+        "task_sum": 10,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 10
+                }
+            ]
+        }
+    },
+    "super_glue_rte": {
+        "task_sum": 10,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Natural Language Inference",
+                    "numberOfPrompts": 10
+                }
+            ]
+        }
+    },
+    "super_glue_wic": {
+        "task_sum": 10,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Word Sense Disambiguation",
+                    "numberOfPrompts": 10
+                }
+            ]
+        }
+    },
+    "super_glue_axb": {
+        "task_sum": 10,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Textual Entailment",
+                    "numberOfPrompts": 10
+                }
+            ]
+        }
+    },
+    "super_glue_wsc.fixed": {
+        "task_sum": 10,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Pronoun Disambiguation",
+                    "numberOfPrompts": 10
+                }
+            ]
+        }
+    },
+    "super_glue_cb": {
+        "task_sum": 15,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Natural Language Inference",
+                    "numberOfPrompts": 15
+                }
+            ]
+        }
+    },
+    "emo_None": {
+        "task_sum": 10,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Emotion Detection",
+                    "numberOfPrompts": 10
+                }
+            ]
+        }
+    },
+    "math_qa_None": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Multiple Choice Question Answering",
+                    "numberOfPrompts": 5
+                },
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "aqua_rat_raw": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Multiple Choice Question Answering",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "anli_None": {
+        "task_sum": 15,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Natural Language Inference",
+                    "numberOfPrompts": 15
+                }
+            ]
+        }
+    },
+    "kelm_None": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Knowledge Base to Natural Language Generation",
+                    "numberOfPrompts": 5
+                },
+                {
+                    "nlptask": "Natural Language to Knowledge Base Generation",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "yelp_polarity_None": {
+        "task_sum": 9,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentiment Analysis",
+                    "numberOfPrompts": 9
+                }
+            ]
+        }
+    },
+    "rotten_tomatoes_None": {
+        "task_sum": 10,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentiment Analysis",
+                    "numberOfPrompts": 10
+                }
+            ]
+        }
+    },
+    "winograd_wsc_wsc273": {
+        "task_sum": 8,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Pronoun Disambiguation",
+                    "numberOfPrompts": 8
+                }
+            ]
+        }
+    },
+    "winograd_wsc_wsc285": {
+        "task_sum": 8,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Pronoun Disambiguation",
+                    "numberOfPrompts": 8
+                }
+            ]
+        }
+    },
+    "sick_None": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Natural Language Inference",
+                    "numberOfPrompts": 4
+                },
+                {
+                    "nlptask": "Semantic Textual Similarity",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "mdd_task1_qa": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Generation",
+                    "numberOfPrompts": 2
+                },
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 2
+                },
+                {
+                    "nlptask": "Dialogue Systems",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Information Retrieval",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "mdd_task3_qarecs": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Dialogue Systems",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "mdd_task2_recs": {
+        "task_sum": 3,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Dialogue Systems",
+                    "numberOfPrompts": 3
+                }
+            ]
+        }
+    },
+    "cbt_CN": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Multiple Choice Question Answering",
+                    "numberOfPrompts": 6
+                },
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "cbt_NE": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Multiple Choice Question Answering",
+                    "numberOfPrompts": 6
+                },
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "cbt_V": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Multiple Choice Question Answering",
+                    "numberOfPrompts": 6
+                },
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "cbt_raw": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 4
+                }
+            ]
+        }
+    },
+    "cbt_P": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Multiple Choice Question Answering",
+                    "numberOfPrompts": 6
+                },
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "craigslist_bargains_None": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "glue_cola": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Grammatical Error Detection",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "glue_sst2": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentiment Analysis",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "glue_ax": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Natural Language Inference",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "glue_stsb": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Semantic Similarity",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "glue_wnli": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Textual Entailment",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "glue_mnli_mismatched": {
+        "task_sum": 15,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Natural Language Inference",
+                    "numberOfPrompts": 15
+                }
+            ]
+        }
+    },
+    "glue_qqp": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Duplicate Question Detection",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "glue_mrpc": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Paraphrase Detection",
+                    "numberOfPrompts": 7
+                }
+            ]
+        }
+    },
+    "glue_mnli": {
+        "task_sum": 15,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Natural Language Inference",
+                    "numberOfPrompts": 15
+                }
+            ]
+        }
+    },
+    "glue_mnli_matched": {
+        "task_sum": 15,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Natural Language Inference",
+                    "numberOfPrompts": 15
+                }
+            ]
+        }
+    },
+    "glue_qnli": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "glue_rte": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Natural Language Inference",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "blended_skill_talk_None": {
+        "task_sum": 3,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Dialogue Order Detection",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Dialogue Understanding",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Dialogue Response Generation",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "snips_built_in_intents_None": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Intent Classification",
+                    "numberOfPrompts": 7
+                }
+            ]
+        }
+    },
+    "numer_sense_None": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Masked Language Modeling",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "cosmos_qa_None": {
+        "task_sum": 13,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Generation",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Multiple Choice Question Answering",
+                    "numberOfPrompts": 12
+                }
+            ]
+        }
+    },
+    "sciq_None": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "trec_None": {
+        "task_sum": 18,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 18
+                }
+            ]
+        }
+    },
+    "quac_None": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "health_fact_None": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "tweet_eval_stance_hillary": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentiment Analysis",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "tweet_eval_emoji": {
+        "task_sum": 3,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentiment Analysis",
+                    "numberOfPrompts": 2
+                },
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "tweet_eval_stance_climate": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentiment Analysis",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "tweet_eval_irony": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentiment Analysis",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "tweet_eval_stance_abortion": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentiment Analysis",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "tweet_eval_stance_feminist": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentiment Analysis",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "tweet_eval_hate": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentiment Analysis",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "tweet_eval_stance_atheism": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentiment Analysis",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "tweet_eval_sentiment": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentiment Analysis",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "tweet_eval_offensive": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "tweet_eval_emotion": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "mocha_None": {
+        "task_sum": 8,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Answer Similarity",
+                    "numberOfPrompts": 8
+                }
+            ]
+        }
+    },
+    "cc_news_None": {
+        "task_sum": 14,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Summarization",
+                    "numberOfPrompts": 7
+                },
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 5
+                },
+                {
+                    "nlptask": "Title Generation",
+                    "numberOfPrompts": 2
+                }
+            ]
+        }
+    },
+    "wiki_qa_None": {
+        "task_sum": 11,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 8
+                },
+                {
+                    "nlptask": "Topic Classification",
+                    "numberOfPrompts": 3
+                }
+            ]
+        }
+    },
+    "scitail_snli_format": {
+        "task_sum": 1,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Natural Language Inference",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "scitail_tsv_format": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Natural Language Inference",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "crows_pairs_None": {
+        "task_sum": 8,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Stereotype Detection",
+                    "numberOfPrompts": 8
+                }
+            ]
+        }
+    },
+    "kilt_tasks_hotpotqa": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "kilt_tasks_nq": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 7
+                }
+            ]
+        }
+    },
+    "samsum_None": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Dialogue Summarization",
+                    "numberOfPrompts": 6
+                },
+                {
+                    "nlptask": "Dialogue Generation",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "meta_woz_dialogues": {
+        "task_sum": 8,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Completion",
+                    "numberOfPrompts": 5
+                },
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 3
+                }
+            ]
+        }
+    },
+    "asset_ratings": {
+        "task_sum": 4,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Simplification",
+                    "numberOfPrompts": 4
+                }
+            ]
+        }
+    },
+    "asset_simplification": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Simplification",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "code_x_glue_tc_text_to_code_None": {
+        "task_sum": 1,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Code Generation",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "jfleg_None": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Grammar Correction",
+                    "numberOfPrompts": 7
+                }
+            ]
+        }
+    },
+    "amazon_us_reviews_Wireless_v1_00": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 3
+                },
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 2
+                }
+            ]
+        }
+    },
+    "limit_None": {
+        "task_sum": 12,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Named Entity Recognition",
+                    "numberOfPrompts": 12
+                }
+            ]
+        }
+    },
+    "paws-x_en": {
+        "task_sum": 12,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Paraphrase Identification",
+                    "numberOfPrompts": 12
+                }
+            ]
+        }
+    },
+    "hate_speech18_None": {
+        "task_sum": 1,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentiment Analysis",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "xnli_en": {
+        "task_sum": 15,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Natural Language Inference",
+                    "numberOfPrompts": 15
+                }
+            ]
+        }
+    },
+    "Zaid/quac_expanded_None": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "Zaid/coqa_expanded_None": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 7
+                }
+            ]
+        }
+    },
+    "common_gen_None": {
+        "task_sum": 9,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentence Generation",
+                    "numberOfPrompts": 6
+                },
+                {
+                    "nlptask": "Concept Extraction",
+                    "numberOfPrompts": 2
+                },
+                {
+                    "nlptask": "Topic Generation",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "multi_x_science_sum_None": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 7
+                }
+            ]
+        }
+    },
+    "conv_ai_3_None": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Information Retrieval",
+                    "numberOfPrompts": 7
+                }
+            ]
+        }
+    },
+    "sms_spam_None": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "ncbi_disease_None": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Named Entity Recognition",
+                    "numberOfPrompts": 7
+                }
+            ]
+        }
+    },
+    "sent_comp_None": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentence Compression",
+                    "numberOfPrompts": 6
+                },
+                {
+                    "nlptask": "Headline Generation",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "scientific_papers_arxiv": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "scientific_papers_pubmed": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "tab_fact_tab_fact": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Table-to-Text",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "art_None": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "tydiqa_primary_task": {
+        "task_sum": 8,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 7
+                },
+                {
+                    "nlptask": "Question Classification",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "tydiqa_secondary_task": {
+        "task_sum": 9,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 7
+                },
+                {
+                    "nlptask": "Question Generation",
+                    "numberOfPrompts": 2
+                }
+            ]
+        }
+    },
+    "enriched_web_nlg_en": {
+        "task_sum": 4,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Data-to-Text",
+                    "numberOfPrompts": 4
+                }
+            ]
+        }
+    },
+    "paws_labeled_final": {
+        "task_sum": 12,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Paraphrase Identification",
+                    "numberOfPrompts": 12
+                }
+            ]
+        }
+    },
+    "paws_labeled_swap": {
+        "task_sum": 12,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Paraphrase Identification",
+                    "numberOfPrompts": 12
+                }
+            ]
+        }
+    },
+    "paws_unlabeled_final": {
+        "task_sum": 12,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Paraphrase Identification",
+                    "numberOfPrompts": 12
+                }
+            ]
+        }
+    },
+    "generated_reviews_enth_None": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentiment Analysis",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "guardian_authorship_cross_topic_1": {
+        "task_sum": 10,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 3
+                },
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 7
+                }
+            ]
+        }
+    },
+    "guardian_authorship_cross_topic_7": {
+        "task_sum": 10,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 3
+                },
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 7
+                }
+            ]
+        }
+    },
+    "guardian_authorship_cross_genre_1": {
+        "task_sum": 10,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 3
+                },
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 7
+                }
+            ]
+        }
+    },
+    "guardian_authorship_cross_topic_4": {
+        "task_sum": 10,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 3
+                },
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 7
+                }
+            ]
+        }
+    },
+    "docred_None": {
+        "task_sum": 10,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 3
+                },
+                {
+                    "nlptask": "Named Entity Recognition",
+                    "numberOfPrompts": 7
+                }
+            ]
+        }
+    },
+    "snli_None": {
+        "task_sum": 15,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Natural Language Inference",
+                    "numberOfPrompts": 15
+                }
+            ]
+        }
+    },
+    "conv_ai_2_None": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "lambada_None": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Next Word Prediction",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "biosses_None": {
+        "task_sum": 11,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Semantic Textual Similarity",
+                    "numberOfPrompts": 11
+                }
+            ]
+        }
+    },
+    "dbpedia_14_None": {
+        "task_sum": 4,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 4
+                }
+            ]
+        }
+    },
+    "piqa_None": {
+        "task_sum": 11,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Correction",
+                    "numberOfPrompts": 3
+                },
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 2
+                },
+                {
+                    "nlptask": "Text Completion",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "ropes_None": {
+        "task_sum": 12,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 12
+                }
+            ]
+        }
+    },
+    "wiki_split_None": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentence Simplification",
+                    "numberOfPrompts": 7
+                }
+            ]
+        }
+    },
+    "hlgd_None": {
+        "task_sum": 11,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Paraphrase Generation",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Textual Entailment",
+                    "numberOfPrompts": 10
+                }
+            ]
+        }
+    },
+    "subjqa_books": {
+        "task_sum": 9,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 7
+                },
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 2
+                }
+            ]
+        }
+    },
+    "quora_None": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Duplicate Question Detection",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "discovery_discovery": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Discourse Marker Prediction",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "stsb_multi_mt_en": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Semantic Similarity",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "cos_e_v1.11": {
+        "task_sum": 11,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Commonsense Question Answering",
+                    "numberOfPrompts": 11
+                }
+            ]
+        }
+    },
+    "cos_e_v1.0": {
+        "task_sum": 11,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Commonsense Question Answering",
+                    "numberOfPrompts": 11
+                }
+            ]
+        }
+    },
+    "zest_None": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "amazon_polarity_None": {
+        "task_sum": 9,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentiment Analysis",
+                    "numberOfPrompts": 9
+                }
+            ]
+        }
+    },
+    "hotpot_qa_distractor": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 3
+                },
+                {
+                    "nlptask": "Extractive Question Answering",
+                    "numberOfPrompts": 2
+                },
+                {
+                    "nlptask": "Question Generation",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Text Summarization",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "hotpot_qa_fullwiki": {
+        "task_sum": 8,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 5
+                },
+                {
+                    "nlptask": "Question Generation",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Text Summarization",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "trivia_qa_unfiltered": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "ade_corpus_v2_Ade_corpus_v2_drug_dosage_relation": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 4
+                }
+            ]
+        }
+    },
+    "ade_corpus_v2_Ade_corpus_v2_drug_ade_relation": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 4
+                }
+            ]
+        }
+    },
+    "ade_corpus_v2_Ade_corpus_v2_classification": {
+        "task_sum": 3,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 3
+                }
+            ]
+        }
+    },
+    "head_qa_en": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Multiple Choice Question Answering",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "craffel/openai_lambada_None": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Next Word Prediction",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "scicite_None": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "scan_filler_num1": {
+        "task_sum": 11,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Natural Language Generation",
+                    "numberOfPrompts": 11
+                }
+            ]
+        }
+    },
+    "scan_filler_num0": {
+        "task_sum": 11,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 11
+                }
+            ]
+        }
+    },
+    "scan_length": {
+        "task_sum": 11,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 11
+                }
+            ]
+        }
+    },
+    "scan_template_right": {
+        "task_sum": 11,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 11
+                }
+            ]
+        }
+    },
+    "scan_simple": {
+        "task_sum": 11,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 11
+                }
+            ]
+        }
+    },
+    "scan_filler_num2": {
+        "task_sum": 11,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 11
+                }
+            ]
+        }
+    },
+    "scan_template_opposite_right": {
+        "task_sum": 11,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 11
+                }
+            ]
+        }
+    },
+    "scan_filler_num3": {
+        "task_sum": 11,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 11
+                }
+            ]
+        }
+    },
+    "scan_template_around_right": {
+        "task_sum": 11,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 11
+                }
+            ]
+        }
+    },
+    "scan_addprim_turn_left": {
+        "task_sum": 11,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 11
+                }
+            ]
+        }
+    },
+    "scan_template_jump_around_right": {
+        "task_sum": 11,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 11
+                }
+            ]
+        }
+    },
+    "scan_addprim_jump": {
+        "task_sum": 11,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 11
+                }
+            ]
+        }
+    },
+    "amazon_reviews_multi_en": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Summarization",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Sentiment Analysis",
+                    "numberOfPrompts": 4
+                },
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 2
+                }
+            ]
+        }
+    },
+    "nlu_evaluation_data_None": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Intent Classification",
+                    "numberOfPrompts": 5
+                },
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "xquad_xquad.en": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 4
+                },
+                {
+                    "nlptask": "Question Generation",
+                    "numberOfPrompts": 2
+                }
+            ]
+        }
+    },
+    "cnn_dailymail_3.0.0": {
+        "task_sum": 9,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Summarization",
+                    "numberOfPrompts": 9
+                }
+            ]
+        }
+    },
+    "ai2_arc_ARC-Challenge": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Multiple Choice Question Answering",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "ai2_arc_ARC-Easy": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Multiple Choice Question Answering",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "quarel_None": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Multiple Choice Question Answering",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "gigaword_None": {
+        "task_sum": 9,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Summarization",
+                    "numberOfPrompts": 4
+                },
+                {
+                    "nlptask": "Title Generation",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "xsum_None": {
+        "task_sum": 10,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Summarization",
+                    "numberOfPrompts": 10
+                }
+            ]
+        }
+    },
+    "hans_None": {
+        "task_sum": 10,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Natural Language Inference",
+                    "numberOfPrompts": 10
+                }
+            ]
+        }
+    },
+    "selqa_answer_selection_analysis": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Topic Classification",
+                    "numberOfPrompts": 2
+                },
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 3
+                }
+            ]
+        }
+    },
+    "yahoo_answers_qa_None": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Generation",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 5
+                },
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "yelp_review_full_None": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentiment Analysis",
+                    "numberOfPrompts": 7
+                }
+            ]
+        }
+    },
+    "species_800_None": {
+        "task_sum": 8,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Named Entity Recognition",
+                    "numberOfPrompts": 8
+                }
+            ]
+        }
+    },
+    "winogrande_winogrande_s": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Cloze Test",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "winogrande_winogrande_xl": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Cloze Test",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "winogrande_winogrande_l": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Cloze Task",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "winogrande_winogrande_m": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Cloze Test",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "winogrande_winogrande_debiased": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Cloze Task",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "winogrande_winogrande_xs": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Cloze Task",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "liar_None": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Named Entity Recognition",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 2
+                },
+                {
+                    "nlptask": "Topic Modeling",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Contextual Understanding",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "onestop_english_None": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Readability Assessment",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "poem_sentiment_None": {
+        "task_sum": 8,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentiment Analysis",
+                    "numberOfPrompts": 8
+                }
+            ]
+        }
+    },
+    "bing_coronavirus_query_set_None": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Intent Detection",
+                    "numberOfPrompts": 4
+                },
+                {
+                    "nlptask": "Named Entity Recognition",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "fever_v2.0": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Fact Checking",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "fever_v1.0": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "banking77_None": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 5
+                },
+                {
+                    "nlptask": "Text Summarization",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "scitldr_Abstract": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Summarization",
+                    "numberOfPrompts": 5
+                },
+                {
+                    "nlptask": "Text Elaboration",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "ambig_qa_light": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "lama_trex": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Masked Language Modeling",
+                    "numberOfPrompts": 2
+                },
+                {
+                    "nlptask": "Relation Extraction",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Negation Generation",
+                    "numberOfPrompts": 2
+                }
+            ]
+        }
+    },
+    "wiki_bio_None": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Information Extraction",
+                    "numberOfPrompts": 4
+                },
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "openbookqa_additional": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Multiple Choice Question Answering",
+                    "numberOfPrompts": 7
+                }
+            ]
+        }
+    },
+    "openbookqa_main": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Multiple Choice Question Answering",
+                    "numberOfPrompts": 7
+                }
+            ]
+        }
+    },
+    "asnq_None": {
+        "task_sum": 11,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 11
+                }
+            ]
+        }
+    },
+    "social_i_qa_None": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "drop_None": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 4
+                },
+                {
+                    "nlptask": "Question Generation",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "movie_rationales_None": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentiment Analysis",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "web_questions_None": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "multi_nli_None": {
+        "task_sum": 15,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Natural Language Inference",
+                    "numberOfPrompts": 15
+                }
+            ]
+        }
+    },
+    "cord19_metadata": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 3
+                },
+                {
+                    "nlptask": "Text Completion",
+                    "numberOfPrompts": 2
+                }
+            ]
+        }
+    },
+    "medical_questions_pairs_None": {
+        "task_sum": 8,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Paraphrase Identification",
+                    "numberOfPrompts": 8
+                }
+            ]
+        }
+    },
+    "newspop_None": {
+        "task_sum": 8,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 5
+                },
+                {
+                    "nlptask": "Text Summarization",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Topic Modeling",
+                    "numberOfPrompts": 2
+                }
+            ]
+        }
+    },
+    "jigsaw_unintended_bias_None": {
+        "task_sum": 11,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 11
+                }
+            ]
+        }
+    },
+    "mc_taco_None": {
+        "task_sum": 10,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Answer Verification",
+                    "numberOfPrompts": 8
+                },
+                {
+                    "nlptask": "Temporal Question Classification",
+                    "numberOfPrompts": 2
+                }
+            ]
+        }
+    },
+    "financial_phrasebank_sentences_allagree": {
+        "task_sum": 9,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentiment Analysis",
+                    "numberOfPrompts": 9
+                }
+            ]
+        }
+    },
+    "discofuse_discofuse-sport": {
+        "task_sum": 10,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentence Splitting",
+                    "numberOfPrompts": 2
+                },
+                {
+                    "nlptask": "Sentence Completion",
+                    "numberOfPrompts": 2
+                },
+                {
+                    "nlptask": "Sentence Fusion",
+                    "numberOfPrompts": 4
+                },
+                {
+                    "nlptask": "Discourse Phenomena Identification",
+                    "numberOfPrompts": 2
+                }
+            ]
+        }
+    },
+    "discofuse_discofuse-wikipedia": {
+        "task_sum": 10,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentence Splitting",
+                    "numberOfPrompts": 2
+                },
+                {
+                    "nlptask": "Sentence Completion",
+                    "numberOfPrompts": 2
+                },
+                {
+                    "nlptask": "Sentence Fusion",
+                    "numberOfPrompts": 4
+                },
+                {
+                    "nlptask": "Discourse Phenomenon Identification",
+                    "numberOfPrompts": 2
+                }
+            ]
+        }
+    },
+    "ag_news_None": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 7
+                }
+            ]
+        }
+    },
+    "qasc_None": {
+        "task_sum": 8,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 8
+                }
+            ]
+        }
+    },
+    "medal_None": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Named Entity Recognition",
+                    "numberOfPrompts": 3
+                },
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 3
+                }
+            ]
+        }
+    },
+    "wiki_hop_original": {
+        "task_sum": 9,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 9
+                }
+            ]
+        }
+    },
+    "wiki_hop_masked": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "sst_default": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentiment Analysis",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "qa_zre_None": {
+        "task_sum": 8,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 6
+                },
+                {
+                    "nlptask": "Relation Extraction",
+                    "numberOfPrompts": 2
+                }
+            ]
+        }
+    },
+    "gutenberg_time_None": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 2
+                },
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 4
+                }
+            ]
+        }
+    },
+    "quoref_None": {
+        "task_sum": 11,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 10
+                },
+                {
+                    "nlptask": "Text Summarization",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "narrativeqa_None": {
+        "task_sum": 8,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 5
+                },
+                {
+                    "nlptask": "Text Summarization",
+                    "numberOfPrompts": 3
+                }
+            ]
+        }
+    },
+    "squad_v2_None": {
+        "task_sum": 12,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Generation",
+                    "numberOfPrompts": 2
+                },
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 4
+                },
+                {
+                    "nlptask": "Topic Classification",
+                    "numberOfPrompts": 4
+                },
+                {
+                    "nlptask": "Text Completion",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Answerability Classification",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "squad_None": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 4
+                },
+                {
+                    "nlptask": "Question Generation",
+                    "numberOfPrompts": 2
+                }
+            ]
+        }
+    },
+    "xquad_r_en": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 4
+                },
+                {
+                    "nlptask": "Question Generation",
+                    "numberOfPrompts": 2
+                }
+            ]
+        }
+    },
+    "wiqa_None": {
+        "task_sum": 8,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 8
+                }
+            ]
+        }
+    },
+    "humicroedit_subtask-1": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentiment Analysis",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "humicroedit_subtask-2": {
+        "task_sum": 8,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 8
+                }
+            ]
+        }
+    },
+    "circa_None": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 3
+                },
+                {
+                    "nlptask": "Question Generation",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Text Transformation",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "openai_humaneval_None": {
+        "task_sum": 2,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Code Generation",
+                    "numberOfPrompts": 2
+                }
+            ]
+        }
+    },
+    "imdb_None": {
+        "task_sum": 11,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentiment Analysis",
+                    "numberOfPrompts": 11
+                }
+            ]
+        }
+    },
+    "race_middle": {
+        "task_sum": 8,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 6
+                },
+                {
+                    "nlptask": "Question Generation",
+                    "numberOfPrompts": 2
+                }
+            ]
+        }
+    },
+    "race_high": {
+        "task_sum": 8,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 6
+                },
+                {
+                    "nlptask": "Question Generation",
+                    "numberOfPrompts": 2
+                }
+            ]
+        }
+    },
+    "race_all": {
+        "task_sum": 8,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 6
+                },
+                {
+                    "nlptask": "Question Generation",
+                    "numberOfPrompts": 2
+                }
+            ]
+        }
+    },
+    "coqa_None": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "e2e_nlg_cleaned_None": {
+        "task_sum": 12,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 9
+                },
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 3
+                }
+            ]
+        }
+    },
+    "covid_qa_castorini_None": {
+        "task_sum": 3,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Generation",
+                    "numberOfPrompts": 2
+                },
+                {
+                    "nlptask": "Keyword Extraction",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "mwsc_None": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "app_reviews_None": {
+        "task_sum": 4,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Sentiment Analysis",
+                    "numberOfPrompts": 3
+                },
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "hyperpartisan_news_detection_byarticle": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "hyperpartisan_news_detection_bypublisher": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "sem_eval_2010_task_8_None": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Semantic Relation Classification",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "nq_open_None": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "blbooksgenre_title_genre_classifiction": {
+        "task_sum": 4,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 4
+                }
+            ]
+        }
+    },
+    "codah_fold_4": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Multiple Choice Question Answering",
+                    "numberOfPrompts": 6
+                },
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "codah_fold_3": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Multiple Choice Question Answering",
+                    "numberOfPrompts": 6
+                },
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "codah_fold_2": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Multiple Choice Question Answering",
+                    "numberOfPrompts": 6
+                },
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "codah_fold_0": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Multiple Choice Question Answering",
+                    "numberOfPrompts": 6
+                },
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "codah_fold_1": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Multiple Choice Question Answering",
+                    "numberOfPrompts": 6
+                },
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "codah_codah": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Multiple Choice Question Answering",
+                    "numberOfPrompts": 6
+                },
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "squadshifts_amazon": {
+        "task_sum": 8,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 8
+                }
+            ]
+        }
+    },
+    "squadshifts_nyt": {
+        "task_sum": 8,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 8
+                }
+            ]
+        }
+    },
+    "squadshifts_new_wiki": {
+        "task_sum": 9,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 6
+                },
+                {
+                    "nlptask": "Question Generation",
+                    "numberOfPrompts": 2
+                },
+                {
+                    "nlptask": "Text Summarization",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "conv_ai_None": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "ecthr_cases_alleged-violation-prediction": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "swag_regular": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Completion",
+                    "numberOfPrompts": 7
+                }
+            ]
+        }
+    },
+    "qed_None": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 3
+                },
+                {
+                    "nlptask": "Information Extraction",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Question Generation",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Summarization",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "quartz_None": {
+        "task_sum": 8,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 8
+                }
+            ]
+        }
+    },
+    "sem_eval_2014_task_1_None": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Natural Language Inference",
+                    "numberOfPrompts": 5
+                },
+                {
+                    "nlptask": "Semantic Textual Similarity",
+                    "numberOfPrompts": 2
+                }
+            ]
+        }
+    },
+    "google_wellformed_query_None": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Query Understanding",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "hellaswag_None": {
+        "task_sum": 11,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Completion",
+                    "numberOfPrompts": 11
+                }
+            ]
+        }
+    },
+    "duorc_SelfRC": {
+        "task_sum": 9,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 7
+                },
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Question Generation",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "duorc_ParaphraseRC": {
+        "task_sum": 9,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 6
+                },
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Question Generation",
+                    "numberOfPrompts": 2
+                }
+            ]
+        }
+    },
+    "climate_fever_None": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 7
+                }
+            ]
+        }
+    },
+    "math_dataset_algebra__linear_1d_composed": {
+        "task_sum": 10,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 10
+                }
+            ]
+        }
+    },
+    "math_dataset_algebra__linear_2d": {
+        "task_sum": 10,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 10
+                }
+            ]
+        }
+    },
+    "math_dataset_algebra__linear_1d": {
+        "task_sum": 10,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 10
+                }
+            ]
+        }
+    },
+    "math_dataset_algebra__linear_2d_composed": {
+        "task_sum": 10,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 10
+                }
+            ]
+        }
+    },
+    "multi_news_None": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Summarization",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "yahoo_answers_topics_None": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 5
+                },
+                {
+                    "nlptask": "Question Generation",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "turk_None": {
+        "task_sum": 4,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Simplification",
+                    "numberOfPrompts": 4
+                }
+            ]
+        }
+    },
+    "evidence_infer_treatment_1.1": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "evidence_infer_treatment_2.0": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "aeslc_None": {
+        "task_sum": 8,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Summarization",
+                    "numberOfPrompts": 8
+                }
+            ]
+        }
+    },
+    "dream_None": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Dialogue Generation",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "riddle_sense_None": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "pubmed_qa_pqa_labeled": {
+        "task_sum": 8,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Classification",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Question Generation",
+                    "numberOfPrompts": 2
+                },
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 2
+                },
+                {
+                    "nlptask": "Text Summarization",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Keyword Extraction",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Sentiment Analysis",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "wino_bias_type2_pro": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Coreference Resolution",
+                    "numberOfPrompts": 7
+                }
+            ]
+        }
+    },
+    "wino_bias_type2_anti": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Coreference Resolution",
+                    "numberOfPrompts": 7
+                }
+            ]
+        }
+    },
+    "wino_bias_type1_pro": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Coreference Resolution",
+                    "numberOfPrompts": 7
+                }
+            ]
+        }
+    },
+    "wino_bias_type1_anti": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Coreference Resolution",
+                    "numberOfPrompts": 7
+                }
+            ]
+        }
+    },
+    "qa_srl_None": {
+        "task_sum": 7,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 5
+                },
+                {
+                    "nlptask": "Question Generation",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Information Extraction",
+                    "numberOfPrompts": 1
+                }
+            ]
+        }
+    },
+    "quail_None": {
+        "task_sum": 13,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 13
+                }
+            ]
+        }
+    },
+    "tmu_gfm_dataset_None": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Correction",
+                    "numberOfPrompts": 1
+                },
+                {
+                    "nlptask": "Text Evaluation",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "squad_adversarial_AddSent": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 4
+                },
+                {
+                    "nlptask": "Question Generation",
+                    "numberOfPrompts": 2
+                }
+            ]
+        }
+    },
+    "neural_code_search_evaluation_dataset": {
+        "task_sum": 2,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Code Explanation",
+                    "numberOfPrompts": 2
+                }
+            ]
+        }
+    },
+    "emotion_None": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Emotion Detection",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "freebase_qa_None": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "story_cloze_2016": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Completion",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    },
+    "billsum_None": {
+        "task_sum": 8,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Text Summarization",
+                    "numberOfPrompts": 3
+                },
+                {
+                    "nlptask": "Text Generation",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "esnli_None": {
+        "task_sum": 10,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Natural Language Inference",
+                    "numberOfPrompts": 10
+                }
+            ]
+        }
+    },
+    "commonsense_qa_None": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "adversarial_qa_dbert": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "adversarial_qa_dbidaf": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "adversarial_qa_adversarialQA": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "adversarial_qa_droberta": {
+        "task_sum": 5,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Question Answering",
+                    "numberOfPrompts": 5
+                }
+            ]
+        }
+    },
+    "acronym_identification_None": {
+        "task_sum": 6,
+        "response": {
+            "result": [
+                {
+                    "nlptask": "Named Entity Recognition",
+                    "numberOfPrompts": 6
+                }
+            ]
+        }
+    }
+}
